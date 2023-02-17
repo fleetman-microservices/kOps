@@ -1,6 +1,6 @@
 # Setup a k8s cluster with kOps
 
-kOps (Kubernetes Operations) is an open source tool, designed to ease and automate the creation, deletion, upgrades, and the maintenance of production-grade Kubernetes (k8s) cluster. Additionally, kOps also provisions the necessary cloud infrastrucutre for the cluster. 
+kOps (Kubernetes Operations) is an open source tool, designed to ease and automate the creation, deletion, upgrades, and the maintenance of production-grade Kubernetes (k8s) cluster. Additionally, kOps also provisions the necessary cloud infrastructure for the cluster. 
 
 ## kOps Configuration
 
