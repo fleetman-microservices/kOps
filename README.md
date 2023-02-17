@@ -1,1 +1,3 @@
-# kOps
+# kOps 
+
+## kOps Configurations
