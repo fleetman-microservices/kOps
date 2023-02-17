@@ -1,3 +1,3 @@
-# kOps 
+# Setup a k8s cluster with kOps
 
-## kOps Configurations
+## kOps Configuration
